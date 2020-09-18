@@ -1,0 +1,26 @@
+/* Date: 18 Sept 2020 */
+
+/* A database builder file; edit as necessary */
+
+/* Name:   /*
+
+
+/* CREATE your tables */
+
+TODO
+
+
+/* INSERT data statements. Note, you could use .import or INSERTs */
+
+TODO
+
+
+
+/* How to run this builder */
+/* cat builder_myDB.txt | sqlite3 myDB.sqlite3 */
+
+
+
+/* Did you remember to add your name? */
+
+
